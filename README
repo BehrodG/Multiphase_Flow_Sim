@@ -1,4 +1,4 @@
 This project was an attempt to re-code a functional FORTRAN based multiphase flow simulator in C++ environment.
 The FORTRAN based simulator was HYDRATERESSIM or "Hydrate Reservoir Simulator" that was a free simulator developed but not maintained by Berkeley Lab.
-I attempted to convert the source FORTRAN codes to this C++ project in 2013-2014. The similarities in the files and functions names to those of the HYDRATERESSIM is because of that. 
+I attempted to convert the source FORTRAN codes to this C++ project in 2013-2014. The similarities in the names of files, variables, and functions to those of the HYDRATERESSIM is because of that. 
 I only made maybe 20% of the conversion and debugging, and then stopped because I started my doctoral studies in UW. 
