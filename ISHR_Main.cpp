@@ -1,11 +1,9 @@
-// In the name of GOD
-
 //**********************************************************************************************
 //**********************************************************************************************
 //**********************************************************************************************
 //*                                                                                            *
 //*                                                                                            *
-//*              Program of "Iranian Simulator for Hydrate Reservoirs"  Version 1.0            *
+//*                                       Version 1.0                                          *
 //*                                    28th March, 2014                                        *
 //*                                    B. Gharedaghloo                                         *
 //*                                                                                            *
@@ -2984,7 +2982,7 @@ void PRINT_Headin()
 //
 //
 
-	cout<<"ISHR v1.0 IS WRITTEN IN C++. USING AN OBJECT_ORIENTED PROGRAMMING STRUCTURE AND WAS DEVELOPED BY B. GHAREDAGHLOO, MSC OF RESERVOIR ENGINEERING, KPE Co. IRAN";
+	cout<<"ISHR v1.0 IS WRITTEN IN C++. USING AN OBJECT_ORIENTED PROGRAMMING STRUCTURE AND WAS DONE BY B. GHAREDAGHLOO";
 	cout<< endl;
 
 
@@ -3559,7 +3557,7 @@ void READ_MainInputF()
 	CPD[3] = 1;
 //
 
-	iddiag = 0 ;     // Flag for consideration of diffusion (ÒDIFFUÓ-data) 
+	iddiag = 0 ;     // Flag for consideration of diffusion (ï¿½DIFFUï¿½-data) 
 // 
 // ----------
 // ... Initialize logical variables        
@@ -5386,7 +5384,7 @@ GOTOELEM:
 //***********************************************************************
 //*                                                                     *
 //*                  ASSIGNING THE MATERIAL/ROCK TYPE                   *
-//*           WRITING THE ELEMENT DATA INTO THE ÒMESHÓ FILE             *
+//*           WRITING THE ELEMENT DATA INTO THE ï¿½MESHï¿½ FILE             *
 //*                                                                     *
 //***********************************************************************
 // 
@@ -5641,7 +5639,7 @@ GOTOCONNECTION:
 // 
 //***********************************************************************
 //*                                                                     *
-//*          WRITING THE CONNECTION DATA INTO THE ÒMESHÓ FILE           *
+//*          WRITING THE CONNECTION DATA INTO THE ï¿½MESHï¿½ FILE           *
 //*                                                                     *
 //***********************************************************************
 // 
@@ -6246,7 +6244,7 @@ GOTOINIT:
 // 
 //***********************************************************************
 //*                                                                     *
-//*      WRITING THE INITIAL CONDITION DATA INTO THE ÒINCONÓ FILE       *
+//*      WRITING THE INITIAL CONDITION DATA INTO THE ï¿½INCONï¿½ FILE       *
 //*                                                                     *
 //***********************************************************************
 // 
